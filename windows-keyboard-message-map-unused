@@ -1,0 +1,37 @@
+112, F1
+113, F2
+114, F3
+115, F4
+116, F5
+117, F6
+118, F7
+119, F8
+120, F9
+121, F10
+122, F11
+123, F12
+27, ESC
+9, TAB       
+20, caps lock
+160, left shift
+162, left ctrl
+91, win      
+164, left alt
+32, space    
+165, right alt
+93, menu     
+163, right ctrl
+161, right shift
+13, enter    
+8, backspace
+45, insert
+44, prt scr
+46, delete
+36, home  
+33, page up
+34, page down
+35, end   
+38, up    
+40, down  
+37, left  
+39, right 
